@@ -1,3 +1,7 @@
+x-special/nautilus-clipboard
+copy
+file:///home/dailan/Imagens/clima-tempo1.png
+
 
 # Projeto
 
